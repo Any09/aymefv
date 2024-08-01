@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "Agora você vai enfrentar o larbirinto do Minotauro, uma história famosa da cultura grega. Na Grécia Antiga, diz a lenda, existiu uma criatura feroz, com cabeça de touro e corpo de homem, aprisionada no labirinto de Creta. O minotauro, era filho da rainha Parsífae, esposa de Minos, rei de Creta, com o touro branco, pelo qual ela se apaixonou como castigo de Netuno, deus do mar. No início você ficou com medo de enfrentá-lo, mas uma notícia mudou tudo, sua(seu) irmã(o) seria levado até o monstro, e você decide ajudá-lo(a). ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Isso é assustador! Mas preciso ajudá-lo",
                 afirmacao: [
                     "",
                     
@@ -11,17 +11,17 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "",
+                texto: "Decido pedir aos deuses gregos do Olimpo, e eles enviam um heroí grego, filho do rei Egeu, era o heroí máximo ateniense.",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "",
+                    
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. ",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
@@ -44,7 +44,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: " ",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
