@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: "Isso é assustador! Mas preciso ajudá-lo",
                 afirmacao: [
-                    "",
+                    "Você mostrou muita coragem em enfrentar os perigos do labirinto e o Minotauro.",
                     
                 ],
                 proxima: 1,
@@ -13,7 +13,7 @@ export const perguntas = [
             {
                 texto: "Decido pedir aos deuses gregos do Olimpo, e eles enviam um heroí grego, filho do rei Egeu, era o heroí máximo ateniense.",
                 afirmacao: [
-                    "",
+                    "Você é alguém responsável, que não arriscaria a vida de quem ama e decidiu que pedir ajuda era uma maneira menos perigosa de sairem de lá.",
                     
                 ],
                 proxima: 2,
