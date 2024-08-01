@@ -1,17 +1,17 @@
 export const perguntas = [
     {
-        enunciado: "Agora você vai enfrentar o larbirinto do Minotauro, uma história famosa da cultura grega. Na Grécia Antiga, diz a lenda, existiu uma criatura feroz, com cabeça de touro e corpo de homem, aprisionada no labirinto de Creta. O minotauro, era filho da rainha Parsífae, esposa de Minos, rei de Creta, com o touro branco, pelo qual ela se apaixonou como castigo de Netuno, deus do mar. Para aplacar a fome do monstro, o rei Minos, ao vencer os ateniences, condonou-os a enviar a cada ano, 14 adolescentes, 7 rapazes e 7 donzelas, que serviriam de banquete para o Minotauro. ",
+        enunciado: "Agora você vai enfrentar o larbirinto do Minotauro, uma história famosa da cultura grega. Na Grécia Antiga, diz a lenda, existiu uma criatura feroz, com cabeça de touro e corpo de homem, aprisionada no labirinto de Creta. O minotauro, era filho da rainha Parsífae, esposa de Minos, rei de Creta, com o touro branco, pelo qual ela se apaixonou como castigo de Netuno, deus do mar. Para aplacar a fome do monstro, o rei Minos, ao vencer os ateniences, condonou-os a enviar a cada ano, 14 adolescentes, 7 rapazes e 7 donzelas, que serviriam de banquete para o Minotauro. No início você ficou com medo de enfrentá-lo, mas uma notícia mudou tudo, sua(seu) irmã(o) seria levado até o monstro, e você decide ajudá-lo(a). ",
         alternativas: [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    "No início você ficou com medo de enfrentá-lo, mas uma notícia mudou tudo, sua(seu) irmã(o) seria levado até o monstro, e você decide ajudá-lo(a).",
+                    "",
                     
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
